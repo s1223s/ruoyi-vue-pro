@@ -1,0 +1,10 @@
+elevator:
+  api:
+    call-app-key: "your_call_app_key"
+    call-app-secret-key: "your_call_app_secret_key"
+    corp-id: "your_corp_id"
+    base-url: "http://localhost:8000/zhdt-openapi-service/"
+  push:
+    app-key: "your_app_key"
+    app-secret-key: "your_app_secret_key"
+    corp-id: "your_corp_id"
